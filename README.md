@@ -1,3 +1,4 @@
+Collaborated with SinHanYang  
 # Reversi Game Project
 
 ### How to run our codes
@@ -7,15 +8,6 @@
  $ python3 arena.py --agent1 Stupid_Agent.StupidAgent --agent2 base_agent.RandomAgent
  ```
  
-### Team members
-- Team leader:
-    - name: Sin-Han Yang
-    - student_id: b08202029
-    - github: [SINHANYANG](https://github.com/SINHANYANG)
-- member:
-    - name: Chun-Neng Chu
-    - student_id: b09902073
-    - github: [heartylearner](https://github.com/heartylearner)
 ### Report
 - basic idea:
  By defining the "score" for getting the certain positons such as corner,edges, we can come up with a greedy choice to select the location where we put the chess on.
